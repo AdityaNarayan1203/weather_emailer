@@ -21,5 +21,9 @@ The Weather Data Emailer is a web application that retrieves weather data from t
 ### Installation
 
 1. **Clone the Repository**
-    git clone https://github.com/AdityaNarayan1203/weather_data_mailer.git
+    git clone https://github.com/AdityaNarayan1203/weather_emailer.git
     cd weather_emailer
+2. **Update the openai api**
+    Go to send-emails.php and update the api key which I have provided to you over mail at line 18 or you can use your own api key
+3. **Install Dependencies**
+   composer install
