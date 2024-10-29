@@ -1,11 +1,11 @@
 # Weather Data Emailer
 
 ## Project Overview
-The Weather Data Emailer is a web application that retrieves weather data from the Weather.com API, displays the weather summary on the webpage, and sends a weather report via email using PHP. The email content is generated using the Gemini API to provide a professional and informative tone.
+The Weather Data Emailer is a web application that retrieves weather data from the Weather.com API, displays the weather summary on the webpage, and sends a weather report via email using PHP. The email content is generated using the OpenAI API to provide a professional and informative tone.
 
 ## Features
 - Fetch current weather data for a specified location from Weather.com API.
-- Compose a professional email with the weather summary using the Gemini API.
+- Compose a professional email with the weather summary using the OpenAI API.
 - Send the generated email to the specified recipient.
 - Simple user interface built with HTML, CSS, and Bootstrap.
 
@@ -15,8 +15,8 @@ The Weather Data Emailer is a web application that retrieves weather data from t
 - PHP 7.4 or higher
 - Composer
 - Access to Weather.com API for weather data
-- Access to Gemini API for generating email content
-- A web server (like Apache or Nginx)
+- Access to OpenAI API for generating email content
+- A web server like Apache 
 
 ### Installation
 
