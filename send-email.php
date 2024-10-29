@@ -15,7 +15,7 @@ use OpenAI\Client;
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-$openai = OpenAI::client('');  //enter openai api key here
+$openai = OpenAI::client('enter_openai_api_key_here');  //enter openai api key here
 
 try {
   $cityName = $_SESSION['cityName'];
