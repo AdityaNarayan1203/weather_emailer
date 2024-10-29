@@ -1,0 +1,36 @@
+.bg_colro{
+	background-color: beige;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+	align-items: center;
+}
+.div_uu{
+	margin-top: 20px;
+}
+.imger{
+
+	text-align: center;
+}
+.imger img{
+	width: 100px;
+	text-align: center;
+}
+.weatherIcon{
+
+	text-align: center;
+}
+.weatherIcon img{
+	width: 100px;
+	text-align: center;
+}
+.boxbg{
+	background-color: beige;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+	align-items: center;
+}
+.tempText{
+	background: rgb(33,22,242);
+    background: linear-gradient(90deg, rgba(33,22,242,1) 0%, rgba(148,31,182,1) 16%, rgb(227 11 190) 37%, rgb(6 43 227 / 93%) 57%, rgb(67 5 170) 81%, rgba(26,23,230,1) 100%);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

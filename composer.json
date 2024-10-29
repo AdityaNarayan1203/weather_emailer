@@ -1,0 +1,16 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "openai/openai": "dev-main",
+        "openai-php/client": "^0.10.2",
+        "symfony/http-client": "^7.1",
+        "nyholm/psr7": "^1.8"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
