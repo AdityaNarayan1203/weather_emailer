@@ -99,6 +99,6 @@ session_destroy();
 <script>
   setTimeout(function() {
     document.getElementById("message").style.display = "none";
-    window.location.href = "/weather/";
+    window.location.href = "/weather_emailer/";
   }, 5000);
 </script>
