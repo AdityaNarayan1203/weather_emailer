@@ -247,7 +247,6 @@ function animate (selector, keyFrameName, duration, delay=0, timing="ease", iter
         );
     }
 };
-/* https://codepen.io/sinapsis7 */
 function loadTooltips() {
     //search for elements that have data-tooltips attributes on the web page, and display it.
     $("[data-tooltip]").each(function() {
